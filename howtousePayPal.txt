@@ -1,0 +1,28 @@
+Các bước để chuẩn bị tích hợp payment zalopay vào dự án 
+
+ npm install express axios body-parser
+
+ 
+
+npm install lottie-react
+
+
+// if you use npm 
+Cài đặt PayPal SDK:
+Đầu tiên, bạn cần cài đặt PayPal SDK vào dự án của mình. Bạn có thể sử dụng npm hoặc yarn để cài đặt gói này.
+
+
+npm install @paypal/react-paypal-js
+
+Hoặc nếu bạn sử dụng yarn:
+yarn add @paypal/react-paypal-js
+
+để sử dụng môi trường SDK 
+npm install @paypal/checkout-server-sdk
+
+để chạy được icon
+
+npm install lottie-react
+
+npm install jsonwebtoken
+npm install --save-dev @types/jsonwebtoken
